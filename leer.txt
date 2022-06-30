@@ -1,0 +1,9 @@
+CUENTA ADMINISTRADOR.
+usuario: admin
+contraseña: admin
+
+CUENTA VENDEDOR.
+usuario: vendedor
+contraseña: vendedor
+
+MUCHAS GRACIAS...
